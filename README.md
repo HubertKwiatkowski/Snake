@@ -1,1 +1,3 @@
 # Snake
+
+Snake game tutorial
